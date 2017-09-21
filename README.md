@@ -5,7 +5,7 @@
 #### [Outcomes Homework](https://github.com/ga-dc/outcomes/blob/master/homework.md)
 #### [One-on-ones and Office Hours](https://github.com/ga-dc/outcomes/blob/master/one-on-ones.md) 
 ## Communication
-#### [Communicating with Outcomes](/ga-dsiplus/blob/master/communicating-with-outcomes.md)
+#### [Communicating with Outcomes](/communicating-with-outcomes.md)
 ## Curriculum 
 #### [Outcomes Roadmap](https://github.com/ga-dc/outcomes/tree/master/roadmap)
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
