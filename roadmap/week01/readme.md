@@ -1,4 +1,4 @@
-# Intro to Outcomes
+# Intro to Outcomes + Alumni Panel 
 
 ## Learning Objectives:
 
