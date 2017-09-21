@@ -10,20 +10,19 @@
 #### [Outcomes Roadmap](/roadmap)
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
 - [week 1: Intro to Outcomes](/roadmap/week01)
-- [week 2: Alumni Panel](https://github.com/ga-dc/outcomes/tree/master/roadmap/week02)
-- [week 3: Finding Your Voice and Defining your Brand](https://github.com/ga-dc/outcomes/tree/master/roadmap/week03)
-- [week 4: Winning Resume Package](https://github.com/ga-dc/outcomes/tree/master/roadmap/week04)
-- [week 5: Studio Tour](https://github.com/ga-dc/outcomes/tree/master/roadmap/week05)
-- [week 6: Defining Your Job Search Requirements](https://github.com/ga-dc/outcomes/tree/master/roadmap/week06)
-- [week 7: Preparing for the Interview and Talking Money](https://github.com/ga-dc/outcomes/tree/master/roadmap/week07)
-- [week 8: Sharing your Talents - GA Profiles + Portfolios](https://github.com/ga-dc/outcomes/tree/master/roadmap/week08)
-- [week 9: Catch your Breath and Regroup](https://github.com/ga-dc/outcomes/tree/master/roadmap/week09)
-- [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](https://github.com/ga-dc/outcomes/tree/master/roadmap/week10)
-- [week 11: Cracking the Technical Interview - WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week11)
-- [week 12: Qualification Check-in](https://github.com/ga-dc/outcomes/tree/master/roadmap/week12)
+- [week 2: Alumni Panel](/roadmap/week02)
+- [week 2: Job Searching Techniques and the Local Landscape](/roadmpa/week022 
+- [week 3: Finding Your Voice and Defining your Brand](/roadmap/week03)
+- [week 4: Studio Tour](/roadmap/week05)
+- [week 5: Preparing for the Interview and Talking Money](/roadmap/week07)
+- [week 6: Winning Resume Package](/roadmap/week04)
+- [week 7: Defining your Non-Negotiables and Negotiating like a Boss](/roadmap/week07)
+- [week 8: Defining Your Job Search Requirements](/roadmap/week06)
+- [week 8: Sharing your Talents - GA Profiles + Portfolios](/roadmap/week08)
+- week 9: THANKSGIVING 
+- [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)]/roadmap/week10)
+- [week 11: Catch your Breath and Regroup](/roadmap/week09)
+- [week 12: Cracking the Technical Interview - WDI + DSI](/roadmap/week11)
+- [week 12: Qualification Check-in](/roadmap/week12)
 
-Post Course Programming
-- [Portfolio Reviews WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13)
-- [Portfolio Reviews UXDI](https://github.com/ga-dc/outcomes/blob/master/roadmap/week11/UXDI/Week%2011%20UXDI%20-%20Outcomes%20to%20github%20(1).md) 
-- [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md)
-- [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md) 
+
