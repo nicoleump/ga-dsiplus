@@ -6,8 +6,6 @@
 
 - **Late homework will not be accepted**. If you have issues submitting homework please let us know.
 
-- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
-
 ## Due Dates and Grading
 
 - You will be assigned homework every week. Outcomes HW is due every Monday at 6 pm, and you can see each week's assingment in your class calendar. 
