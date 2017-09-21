@@ -4,9 +4,15 @@
 
 * Provide an introduction of what to expect from outcomes pre and post course
 
-* Get to know Joy and Sarah - your career coaches! 
+* Get to know your career coaches! 
 
 * Begin to create your future vision 
+
+* Gain advice from students who have been through it before
+
+* Get first hand knowledge of ways to be successful at GA and network like a pro
+
+* Find out what alumni wished they had done while in class
 
 [Be sure to read our full presentation here](https://drive.google.com/open?id=0B4Db6Ll5urG2ajl4OXVuZmRXTEE) 
 
