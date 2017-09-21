@@ -1,4 +1,4 @@
-# Week 3: Finding Your Voice & Defining Your Brand
+# Finding Your Voice & Defining Your Brand
 
 ## Learning Objectives:
 
