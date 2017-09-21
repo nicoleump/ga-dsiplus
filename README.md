@@ -7,7 +7,7 @@
 ## Communication
 #### [Communicating with Outcomes](/communicating-with-outcomes.md)
 ## Curriculum 
-#### [Outcomes Roadmap](/roadmap)
+#### Outcomes Roadmap
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
 - [week 1: Intro to Outcomes](/roadmap/week01)
 - [week 2: Alumni Panel](/roadmap/week02)
