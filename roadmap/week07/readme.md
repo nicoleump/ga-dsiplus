@@ -1,4 +1,4 @@
-# Preparing for the Interview & Talking Money
+# Preparing for the Interview 
 
 ## Learning Objectives:
 
