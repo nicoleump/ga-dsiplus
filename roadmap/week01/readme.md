@@ -67,7 +67,7 @@ Review [Organizations that have hired GA Graduates](https://docs.google.com/spre
 By completing the worksheet you have submitted your homework this week.
 
 ## Further Reading and Resources: 
-[Meet your Outcomes Team](https://github.com/ga-dc/outcomes/blob/master/outcomes-intro.md) 
+[Meet your Outcomes Team](/outcomes-intro.md) 
 
 [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
 
