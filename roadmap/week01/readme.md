@@ -62,7 +62,7 @@ Our vision is put into action through programs and activities that foster profes
 ## Homework
 Homework due next Monday at 6 pm [Vision + Goals worksheet](https://docs.google.com/forms/d/e/1FAIpQLSdMjwRUlhr4UXynJrsuXTSak-u2SfxCBpSfIrpNcsT24KEeDA/viewform). 
 
-Review [Organizations that have hired GA Graduates]https://docs.google.com/spreadsheets/d/1DiCtDIbSvr6igl_AcVBJGiU7TE9M9-_nFGVsFYnW8Ss/edit#gid=0) 
+Review [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1DiCtDIbSvr6igl_AcVBJGiU7TE9M9-_nFGVsFYnW8Ss/edit#gid=0) 
 
 By completing the worksheet you have submitted your homework this week.
 
