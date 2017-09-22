@@ -12,6 +12,16 @@
 * Begin to learn how to network locally and how to describe yourself as a GA student 
 
 ## Framing 
+Now that you have a general understanding of how to best partner and work with Outcomes throughout your time at GA and post course, let's talk about how to best set yourself up for success in your local market. We will re-look at your 5 year plan and think about ways to make that happen. 
+
+* How do you work with your local career coach? 
+* What are some key things to think about over the next 12 weeks as you ramp up for your job search? 
+* What is unique to your market? 
+* How can you be successful? 
+* Who are the key players in the industry? 
+* What events should you plan on attending 
+
+All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
 ## Homework
 Homework due next Monday at 6 pm: [What's my Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md) 
