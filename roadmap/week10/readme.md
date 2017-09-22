@@ -1,4 +1,4 @@
-# Week 10: Ask the Experts Panel Discussion - Hiring Managers and Recruiters   
+# Ask the Experts Panel Discussion - Hiring Managers and Recruiters   
 
 ## Learning Objectives: 
 
