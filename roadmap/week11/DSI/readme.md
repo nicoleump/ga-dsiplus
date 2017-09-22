@@ -1,4 +1,4 @@
-# Week 11 (DSI): Technical Interview    
+# Cracking the Technical Interview    
 
 ## Learning Objectives: 
 
