@@ -3,7 +3,6 @@
 #### [Meet your Outcomes Team](/outcomes-intro.md)
 #### [Outcomes Attendance](/outcomes-attendance.md)
 #### [Outcomes Homework](/homework.md)
-#### [One-on-ones and Office Hours](/one-on-ones.md) 
 ## Communication
 #### [Communicating with Outcomes](/communicating-with-outcomes.md)
 ## Curriculum 
