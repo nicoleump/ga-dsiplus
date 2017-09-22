@@ -15,7 +15,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 4: Studio Tour](/roadmap/week05)
 - [week 5: Preparing for the Behavioral Interview](/roadmap/week07)
 - [week 6: Winning Resume Package](/roadmap/week04)
-- [week 7: Defining your Non-Negotiables and Negotiating like a Boss](/roadmap/week07)
+- [week 7: Defining your Non-Negotiables and Negotiating like a Boss](/roadmap/week88.md)
 - [week 8: Sharing your Talents - GA Profiles + Portfolios](/roadmap/week08)
 - week 9: THANKSGIVING 
 - [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](/roadmap/week10)
