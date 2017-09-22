@@ -26,7 +26,7 @@ All of these questions and more will be covered. You will also have the opportun
 ## Homework
 Homework due next Monday at 6 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
-Review [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
+Review [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1DiCtDIbSvr6igl_AcVBJGiU7TE9M9-_nFGVsFYnW8Ss/edit#gid=0) 
 
 By completing the worksheet you have submitted your homework this week.
 
