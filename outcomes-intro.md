@@ -36,13 +36,39 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [macia.batista@ga.co](mailto:macia.batista@ga.co)
 - [Meet Macia!](https://www.linkedin.com/in/maciabatista/)
 
-
+### WEST COAST
 ### Joy Haugen
-![Joy Haugen](/assets/joyhaugen.png)
-- Outcomes Lead
-- Career Coach
-- [joy.haugen@ga.co](mailto:joy.haugen)
-- [Joy's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUhjY1U5MFVhS1YzfGRlZmF1bHR8YzI3Yzc5YjBjMzBkYTBhZTY1MDFlY2U1ZjQwZWNmYmI)
+- Global Outcomes Lead
+- D.C. Career Coach
+- [joy.haugen@ga.co](mailto:joy.haugen@ga.co)
+- [Meet Joy!](https://www.linkedin.com/in/joyhaugen/)
+
+### Becca Zukowski 
+- Denver Career Coach
+- [becca.zukowski@ga.co](mailto:becca.zukowski@ga.co)
+- [Meet Becca!](https://www.linkedin.com/in/rebeccazukowski/)
+
+### Andy Whelan
+- San Francisco Career Coach
+- [andrew.whelan@ga.co](mailto:andrew.whelan@ga.co)
+- [Meet Andy!](https://www.linkedin.com/in/awhelan1/)
+
+### Ari Aldebot
+- San Francisco Career Coach
+- [barianna.aldebot@ga.co](mailto:arianna.aldebot@ga.co)
+- [Meet Ari!](https://www.linkedin.com/in/ariannaaldebot/)
+
+### Andrew Kumar
+- Santa Monica Career Coach
+- [andrew.kumar@ga.co](mailto:andrew.kumar@ga.co)
+- [Meet Andrew!](https://www.linkedin.com/in/andrewkumar1016/)
+
+### Beth Miller
+- Seattle Career Coach
+- [beth.miller@ga.co](mailto:beth.miller@ga.co)
+- [Meet Beth!](https://www.linkedin.com/in/bemilr9/)
+
+
 
 
 
