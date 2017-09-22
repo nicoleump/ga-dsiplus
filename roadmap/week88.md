@@ -10,7 +10,7 @@
 
 * Know when to negotiate and talk money in the interview process
 
-* Practicing interviewing + negotiation
+* Practicing negotiation
 
 ## Framing: (5/5)
 
@@ -72,7 +72,7 @@ Check Glassdoor, ask us, ask alumni, Google!
 
 ## We do (10/100)
 
-Volunteer practice negotiating. Student volunteer will have just been offered a position, at 60K and they want 70K.
+Volunteer practice negotiating. Student volunteer will have just been offered a position, at 70K and they want 75K.
 
 Class will provide feedback:
 
@@ -88,7 +88,7 @@ Class will provide feedback:
 
 Turn to your neighbor. One of you will be the student and one will be the employer.
 
-Students will practice negotiating for 10K more money. They’ve been offered 60K and they want 70K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
+Students will practice negotiating for 5K more money. They’ve been offered 70K and they want 75K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
 
 The employer will give feedback to the interviewee (5 minutes)
 
@@ -97,25 +97,6 @@ After 10 min, we’ll switch roles.
 ## We do: (5/125)
 
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
-
-## Homework 
-Check your class calendar for your HW assingment due next Monday 
-
-
-
-Turn to your neighbor. One of you will be the interviewer and one will be the interviewee.
-
-Interviewers will ask the interviewee a minimum of 3 questions (10 minutes). Questions should include:
-
-* Tell me about yourself.
-
-* 2+ questions from [30 Behavioral Interview Questions You Should Be Ready to Answer](https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#heading=h.hhubctteg3x0)
-
-The Interviewer will give feedback to the interviewee (5 minutes)
-
-* As a group, they will share and discuss their feedback together and complete the [Peer Review Interview Rubric](https://docs.google.com/spreadsheets/d/1L1OP8HAgj6MZRJz2Z-Q_v79ATSBWeD_iQOlzuiPzoQo/edit#gid=1104109572).
-
-After 15 min, we’ll switch roles.
 
 ## Homework 
 Check your class calendar for your HW assingment due next Monday 
