@@ -14,19 +14,6 @@
 
 - **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
-# Outcomes Homework Summary 
-*Be sure to check your course calendar as each individual course is different*
 
-- [Vision + Goals Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md)
-- [What’s My Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md)
-- [Draft Brand Statement](https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md)
-- [Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
-- [Draft Cover Letter](https://github.com/ga-dc-outcomes/cover-letter)
-- [Final LinkedIn Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md)
-- [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md)
-- [Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
-- [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md)
-- [Portfolio](https://github.com/ga-dc-outcomes/portfolio)
-- [All Final Materials](https://github.com/ga-dc-outcomes/final-materials) 
 
 
