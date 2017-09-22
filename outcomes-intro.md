@@ -9,15 +9,32 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - Global Outcomes Lead
 -  D.C. Career Coach
 - [sarah.brooks@ga.co](mailto:sarah.brooks@ga.co)
-- [Sarah's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU51a0hzZWhMYWEzfGRlZmF1bHR8OTdmMmNjZTAxMmY2ZTliNzlkMjY1MmExZWE0ZTZiYTY)
+- [Meet Sarah!](https://www.linkedin.com/in/sabrooks/)
 
 ### Brenda Bridges
 - Atlanta Career Coach
 - [brenda.bridges@ga.co](mailto:brenda.bridges@ga.co)
-- [Meet Brenda](https://www.linkedin.com/in/brendabridges/)
+- [Meet Brenda!](https://www.linkedin.com/in/brendabridges/)
 
+### Nicole Umphress
+- Austin Career Coach
+- [nicole.hartig@ga.co](mailto:nicole.hartig@ga.co)
+- [Meet Nicole!](https://www.linkedin.com/in/nicoleumphress/)
 
+### Julie Carrol
+- Boston Career Coach
+- [julie.carroll@ga.co](mailto:julie.carroll@ga.co)
+- [Meet Julie!](https://www.linkedin.com/in/juliecarroll2/)
 
+### Taylor Manus
+- Chicago Career Coach
+- [taylor.manus@ga.co](mailto:taylor.manus@ga.co)
+- [Meet Taylor!](https://www.linkedin.com/in/taylormanus/)
+
+### Macia Batista
+- New York Career Coach
+- [macia.batista@ga.co](mailto:macia.batista@ga.co)
+- [Meet Macia!](https://www.linkedin.com/in/maciabatista/)
 
 
 ### Joy Haugen
