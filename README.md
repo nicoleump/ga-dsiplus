@@ -10,7 +10,7 @@
 #### Outcomes Roadmap
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
 - [week 1: Intro to Outcomes + Alumni Panel](/roadmap/week01)
-- [week 2: Job Searching Techniques and the Local Landscape](/roadmpa/week022) 
+- [week 2: Job Searching Techniques and the Local Landscape](/roadmap/week%2022.md) 
 - [week 3: Finding Your Voice and Defining your Brand](/roadmap/week03)
 - [week 4: Studio Tour](/roadmap/week05)
 - [week 5: Preparing for the Interview and Talking Money](/roadmap/week07)
