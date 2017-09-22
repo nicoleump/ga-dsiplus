@@ -20,7 +20,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - week 9: THANKSGIVING 
 - [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](/roadmap/week10)
 - [week 11: Catch your Breath and Regroup](/roadmap/week09)
-- [week 12: Cracking the Technical Interview - WDI + DSI](/roadmap/week11)
-- [week 12: Qualification Check-in](/roadmap/week12)
+- [week 12: Cracking the Technical Interview - WDI + DSI](/roadmap/week11/DSI/readme.md)
+
 
 
