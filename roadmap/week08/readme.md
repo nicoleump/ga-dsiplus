@@ -34,11 +34,7 @@ Must haves:
 
 * Projects: Screenshot, links
 
-* WDI students: Each project should have a description sharing what the project does and what languages you used
-
-* UX students: Each project should have a detailed case study that is scannable
-
-* DSI students: Each project should have a description that highlights your methodology and process
+* Each project should have a description that highlights your methodology and process
 
 **GA Profile**
 
