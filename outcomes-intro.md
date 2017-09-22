@@ -6,18 +6,15 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ### EAST COAST
 ### Sarah Brooks
-![Sarah Brooks](/assets/sarahbrooks.jpg)
-- Outcomes Lead
-- Career Coach
+- Global Outcomes Lead
+-  D.C. Career Coach
 - [sarah.brooks@ga.co](mailto:sarah.brooks@ga.co)
 - [Sarah's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU51a0hzZWhMYWEzfGRlZmF1bHR8OTdmMmNjZTAxMmY2ZTliNzlkMjY1MmExZWE0ZTZiYTY)
 
-### Sarah Brooks
-![Sarah Brooks](/assets/sarahbrooks.jpg)
-- Outcomes Lead
-- Career Coach
-- [sarah.brooks@ga.co](mailto:sarah.brooks@ga.co)
-- [Sarah's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU51a0hzZWhMYWEzfGRlZmF1bHR8OTdmMmNjZTAxMmY2ZTliNzlkMjY1MmExZWE0ZTZiYTY)
+### Brenda Bridges
+- Atlanta Career Coach
+- [brenda.bridges@ga.co](mailto:brenda.bridges@ga.co)
+- [Meet Brenda](https://www.linkedin.com/in/brendabridges/)
 
 
 
