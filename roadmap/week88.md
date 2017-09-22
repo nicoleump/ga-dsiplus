@@ -18,6 +18,80 @@ What is a must-have in your next career? How do you narrow down your job search 
 
 Negotiating can be hard and intimidating. No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
 
+## You do:
+
+- Pull out a piece of paper or new document on your computer
+
+- Think about the last 5 roles you have had. If you recently graduated think of volunteer roles you’ve had, roles in clubs, sports teams, or membership organizations.
+
+- On the left hand side of the page right out all of the things you liked about each of those roles
+
+- On the right hand side of the page list out all of the things that you didn’t like about the roles
+
+**Think about: **
+
+- Team structure - did you work alone or part of a team? Or both?
+
+- Structure of the work environment - was it flexible? Bureaucratic? Creative? Lively? Quiet?
+
+- Culture - was it fun? Serious? Creative? Supportive? Smart? Mission driven?
+
+- Management style
+
+- Commute
+
+- Dress code
+
+- Physical environment
+
+- Salary
+
+- Professional development and growth
+
+- . . . and anything else!
+
+Now, take a step back and look for any over-arching themes - what do you see?
+
+## We do:
+
+Open discussion
+
+## You do:
+
+Next, write down your core values professionally and personally. Don’t think too much about this, just what first comes into your head, and this will be a list that continues to grow. Some ideas:
+
+* Integrity
+
+* Authenticity
+
+* Growth
+
+* Kindness
+
+* Peace
+
+* Courage
+
+* Adventure
+
+* Generosity
+
+* Making the world a better place
+
+* Joy/play
+
+* Creativity
+
+What connections do you see between your values and your likes/dislikes?
+
+## We do:
+
+Open discussion
+
+## You do:
+
+Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3 things that you know if they aren’t there you won’t be able to be successful or happy.
+
 ## Negotiations: Knowing your Worth (10/75)
 
 55% of women and 39% of men admit being too scared to negotiate.
