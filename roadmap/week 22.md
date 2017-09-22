@@ -24,7 +24,7 @@ Now that you have a general understanding of how to best partner and work with O
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
 ## Homework
-Homework due next Monday at 6 pm: [What's my Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md) 
+Homework due next Monday at 6 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
 Review [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
 
