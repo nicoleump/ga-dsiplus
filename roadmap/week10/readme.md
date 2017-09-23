@@ -28,7 +28,7 @@ Questions you could ask:
 
 * What are some of the tough questions you ask candidates?
 
-* What is it like to work at your company for developers and designers?
+* What is it like to work at your company for data scientists?
 
 * What is the interview process like?
 
