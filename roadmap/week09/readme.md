@@ -6,7 +6,7 @@
 
 ## Framing:
 
-Take advantage of this week to polish your Brand Statement, Resume, GA Profile, LinkedIn Profile, and get your draft Portfolio in place. Bring all of these things to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from Joy or Sarah.
+Take advantage of this week to polish your Brand Statement, Resume, GA Profile, LinkedIn Profile, and get your draft Portfolio in place. Bring all of these things to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from your local career coach.
 
 ## Homework
 
