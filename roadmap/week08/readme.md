@@ -57,26 +57,6 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 
 Example Portfolios:
 
-**WDI:**
-
-[http://jschultz.co/](http://jschultz.co/)
-
-[https://pamelaolney.github.io/](https://pamelaolney.github.io/)
-
-[http://design.mcoyle.com/](http://design.mcoyle.com/)
-
-[https://zorba-strange.github.io/portfolio/](https://zorba-strange.github.io/portfolio/)
-
-**UXDI:**
-
-[https://www.sharonchoi.design/](https://www.sharonchoi.design/)
-
-[http://jbrockett.design/](http://jbrockett.design/)
-
-[http://www.colynirvine.com/](http://www.colynirvine.com/)
-
-[http://www.acecia.design/](http://www.acecia.design/)
-
 **DSI:**
 
 [http://www.emilyschuch.com/](http://www.emilyschuch.com/)
@@ -86,6 +66,7 @@ Example Portfolios:
 [https://sambozek.github.io/capstone.html#capstone](https://sambozek.github.io/capstone.html#capstone)
 
 [Build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+
 
 **GA Profile examples:** 
 
