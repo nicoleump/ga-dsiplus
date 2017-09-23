@@ -38,6 +38,7 @@ We do: (10/15)
 
 This is not an interrogation! Success will come from creating connection and a real, authentic conversation.
 
+
 **Best Practices: Mental Prep**
 
 * Do your homework! Research the company and know the job.
@@ -49,6 +50,7 @@ This is not an interrogation! Success will come from creating connection and a r
     * For each skill, provide details about why this is a skill of yours
 
     * Give an example  
+
 
 * Use the SEX approach:
 
@@ -76,7 +78,8 @@ This is not an interrogation! Success will come from creating connection and a r
 
 ## Guided Practice: (10/25)
 
-"Tell me about yourself." - This is an opportunity to channel our professional brands. We’ve all been working on defining our brands. This is your chance to put it into action. This is not an invitation to recite your entire life story or even to go bullet by bullet through your resume. Instead, it’s probably your first and best chance to pitch the hiring manager on why you’re the right one for the job. Consider this simple formula, [the Past-Present-Future formula](https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself).
+"Tell me about yourself." 
+- This is an opportunity to channel our professional brands. We’ve all been working on defining our brands. This is your chance to put it into action. This is not an invitation to recite your entire life story or even to go bullet by bullet through your resume. Instead, it’s probably your first and best chance to pitch the hiring manager on why you’re the right one for the job. Consider this simple formula, [the Past-Present-Future formula](https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself).
 
 Start with the present - where you are right now.
 
@@ -125,7 +128,7 @@ Check your class calendar for your HW assingment due next Monday
 
 ## Further Reading/ Resources:
 
-[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrTFZDcjJiWVM2MTg)
+[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrRHhOM3ZoTjJXUGc)
 
 **Interviewing:**
 
