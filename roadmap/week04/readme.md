@@ -48,7 +48,7 @@ Do your research - your resume is your personal advertisement
 
     2. Projects
 
-    3. Any other experience related to web development, ux design, or data science
+    3. Any other experience related to data science
 
 5. Professional Experience
 
@@ -67,12 +67,6 @@ Do your research - your resume is your personal advertisement
 [6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
 
 Review of previous successful resumes:
-
-* [WDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmgxOWtkSGNhRHFQX2tudXJUOXlFdXV3djNSTDV2MXlJNnhMaGgtNnp6NVE)
-
-* [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
-    * [Kelly Molloy](https://kellymolloy.myportfolio.com/resume) 
-    * [Kelli Sippola](https://static1.squarespace.com/static/590f8c3ad2b8578e64766475/t/5938ad93ebbd1a08e23d92cf/1496886676154/UI+RESUME.pdf)
 
 * [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
 
@@ -116,10 +110,10 @@ Paragraph 5: Call to Action and Contact Info.
 LinkedIn is an incredibly valuable tool that can completely shift your networking strategies 
 
 Find your career crushes and ask them to coffee.
-- Hi Name! I'm a current ABC student at GA and I'm looking to learn more about the tech field in DC. I was really impressed by your career path and would love to pick your brain. Would you be open to coffee (my treat) or quick phone call in the next couple of weeks? 
+- Hi Name! I'm a current Data Science student at GA and I'm looking to learn more about the tech field in CITY. I was really impressed by your career path and would love to pick your brain. Would you be open to coffee (my treat) or a quick phone call in the next couple of weeks? 
 
 Whenever you are interested in an organization, search to see if you have any 1st, 2nd, or 3rd degree connections to that organization, and then ask for a connection
-- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in DC. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
+- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in CITY. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
 
 ### Updating your LinkedIn 
 First of all, turn off notifications when you are making lots of edits (Click your headshot > Settings + Privacy > Privacy tab > "Sharing Profile Edits" half way down the page)
@@ -127,7 +121,7 @@ First of all, turn off notifications when you are making lots of edits (Click yo
 Make sure your contact information is listed (Click on your headshot > scroll down halfway down the page on the righthand side "Contact and Personal Info" 
 
 Update your tagline (under your name)
-- Examples: Web Developer, Frontend Developer, Web Development Student at GA, User Experience Designer, Data Scientist. Even if you don't feel like it's true, put it up there! 
+- Examples: Data Scientist (Even if you don't feel like it's true, put it up there!) 
 
 Once your resume is final, you can copy and paste the content into LinkedIn 
 
@@ -136,7 +130,7 @@ Add your GA projects to your GA section
 
 Ask for recommendations: former bosses, coworkers, clients 
 - You can use the [recommendation section on LinkedIn](https://www.linkedin.com/help/linkedin/answer/96/request-a-recommendation?lang=en) and be sure to also follow up with a personalized note: 
-- Example: Hi NAME, I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to build up my LinkedIn profile, would you be willing to write me a recommendation? I'd be happy to draft some ideas for you if that's helpful. 
+- Example: Hi NAME, I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to build up my LinkedIn profile, would you be willing to write me a recommendation? I'd be happy to draft some ideas for you if that's helpful. 
 
 [Here’s an example LinkedIn Profile](https://www.linkedin.com/in/christinemovius) to model
 
@@ -160,24 +154,10 @@ Begin your draft resume
 
 - GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
 
-**_WDI_**
-Web Development Immersive Student
-
-Three-month, 500-hour full-time and full-stack web development program providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, PHP, Wordpress, Jasmine, RSpec, Git, Github, Agile/scrum, wire framing, user stories/requirements planning, and test driven development. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
-
-- Led a team of 4 to build a functional site for Drizly- a local startup specializing in on-demand alcohol delivery.
-- Completed projects using JavaScript, jQuery, AJAZ, Ruby, Ruby on Rails, PostgreSQL, node.js, handlebars, HTML, CSS, Sass
-
-**UXDI**
-UX Design Immersive Student
-
-Full-time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
-
 **DSI**
 Data Science Immersive Student
 
-Participated in full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
-
+Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 
 ## Homework 
@@ -185,7 +165,7 @@ Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://
 
 ## Further Reading/Resources:
 
-[Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrX1Vzd084N3JwYW8)
+[Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrWnBHc2dIb29XTUU)
 
 Resume templates: 
 
