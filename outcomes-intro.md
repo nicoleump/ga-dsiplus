@@ -43,11 +43,6 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [joy.haugen@ga.co](mailto:joy.haugen@ga.co)
 - [Meet Joy!](https://www.linkedin.com/in/joyhaugen/)
 
-### Becca Zukowski 
-- Denver Career Coach
-- [becca.zukowski@ga.co](mailto:becca.zukowski@ga.co)
-- [Meet Becca!](https://www.linkedin.com/in/rebeccazukowski/)
-
 ### Andy Whelan
 - San Francisco Career Coach
 - [andrew.whelan@ga.co](mailto:andrew.whelan@ga.co)
