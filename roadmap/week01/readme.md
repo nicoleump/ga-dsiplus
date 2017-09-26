@@ -52,7 +52,7 @@ Our vision is put into action through programs and activities that foster profes
 * To be honest with you 
 
 ## In order to receive outcomes support you must: 
-* Graduate from your immersive and attended Outcomes sessions 
+* Graduate from your immersive and attend Outcomes sessions 
 * Have the following completed and signed off by your local career coach within 1 week after graduation: 
 * Resume 
 * LinkedIn 
