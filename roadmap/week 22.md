@@ -19,7 +19,7 @@ Now that you have a general understanding of how to best partner and work with O
 * What is unique to your market? 
 * How can you be successful? 
 * Who are the key players in the industry? 
-* What events should you plan on attending 
+* What events should you plan on attending? 
 
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
