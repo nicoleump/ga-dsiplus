@@ -34,9 +34,9 @@ Our vision is put into action through programs and activities that foster profes
 
 * I promise to remember that while changing my life is going to feel hard, scary, and lonely at times, I am never alone.
 
-* I promise to be a part of making the future of the General Assembly community stronger than it is today
+* I promise to be a part of making the future of the General Assembly community stronger than it is today.
 
-* I promise to show up on time and do outcomes homework
+* I promise to show up on time and do outcomes homework.
 
 ## Our Promise: 
 * To have your back, to push you, and hold you accountable
