@@ -124,7 +124,7 @@ The Interviewer will give feedback to the interviewee (5 minutes)
 After 15 min, we’ll switch roles.
 
 ## Homework 
-Check your class calendar for your HW assingment due next Monday 
+Check your class calendar for your HW assignment due next Monday 
 
 ## Further Reading/ Resources:
 
@@ -186,7 +186,7 @@ Check your class calendar for your HW assingment due next Monday
 
 * Tell your story through your brand.
 
-* Talk about your process and communicate how you tackle challenges
+* Talk about your process and communicate how you tackle challenges.
 
 * Learn new technologies quickly and apply them quickly. Look at what you’ve learned in the last 12 weeks, imagine what you could do in the first 12 weeks of the job.
 
