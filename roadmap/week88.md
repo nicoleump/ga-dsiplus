@@ -164,7 +164,7 @@ Turn to your neighbor. One of you will be the student and one will be the employ
 
 Students will practice negotiating for 5K more money. They’ve been offered 70K and they want 75K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
 
-The employer will give feedback to the interviewee (5 minutes)
+The employer will give feedback to the interviewee (5 minutes).
 
 After 10 min, we’ll switch roles.
 
@@ -173,7 +173,7 @@ After 10 min, we’ll switch roles.
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
 ## Homework 
-Check your class calendar for your HW assingment due next Monday 
+Check your class calendar for your HW assingment due next Monday. 
 
 ## Further Reading/ Resources:
 
