@@ -24,7 +24,7 @@ Now that you have a general understanding of how to best partner and work with O
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
 ## Homework
-Homework due next Monday at 6 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
+Homework due next Monday at 7 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
 Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
