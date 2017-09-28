@@ -2,16 +2,12 @@
 
 After worksheets, we'll be using github to submit all HW:
 
-1. If you haven't already, accept the invitation to the ga-dc-outcomes private repo. We don't want your drafts out in the world, so in order to submit your HW you need to be added to the private repo 
+1. Look in your class calendar for the HW due that week on Monday at 7 pm. The HW listed is the HW that's due that day 
 
-2. Look in your class calendar for the HW due that week on Monday at 6 pm. The HW listed is the HW that's due that day 
+2. At the top of the page, click on the "Issue" Navigation item (next to < > Code) 
 
-3. Click on the link that says "submit an issue here" 
+3. Click on "New Issue" (Green button on the right hand side) 
 
-4. At the top of the page, click on the "Issue" Navigation item (next to < > Code) 
+4. Submit your HW and name your issue Location Firstname Lastname 
 
-5. Click on "New Issue" (Green button on the right hand side) 
-
-6. Submit your HW and name your issue Cohort# Firstname Lastname 
-
-7. Someone from the outcomes team will give you feedback in the timeline listed on the HW assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out to us! 
+5. Someone from the outcomes team will give you feedback in the timeline listed on the HW assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out to us! 
