@@ -8,7 +8,7 @@
 
 ## Due Dates and Grading
 
-- You will be assigned homework every week. Outcomes HW is due every Monday at 6 pm, and you can see each week's assignment in your class calendar. 
+- You will be assigned homework every week. Outcomes HW is due every Monday at 7 pm, and you can see each week's assignment in your class calendar. 
 
 - You will receive feedback on *some* of your homework assignments. Each homework details if you will receive feedback and when. We will always check that it's completed. If you have any questions about your work or want additional feedback, please come by office hours or set up a 1:1 with us. 
 
