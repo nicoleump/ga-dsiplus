@@ -60,7 +60,7 @@ Our vision is put into action through programs and activities that foster profes
 * Portfolio
 
 ## Homework
-Homework due next Monday at 6 pm:
+Homework due next Monday at 7 pm:
 - [Vision + Goals worksheet](https://docs.google.com/forms/d/e/1FAIpQLSdMjwRUlhr4UXynJrsuXTSak-u2SfxCBpSfIrpNcsT24KEeDA/viewform)
 - Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
