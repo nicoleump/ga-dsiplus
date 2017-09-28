@@ -63,6 +63,11 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [beth.miller@ga.co](mailto:beth.miller@ga.co)
 - [Meet Beth!](https://www.linkedin.com/in/bemilr9/)
 
+### Sam Stack
+- Denver Career Coach
+- [sam.stack@ga.co](mailto:sam.stack@ga.co)
+- [Meet Sam!](https://www.linkedin.com/in/samuel-stack/)
+
 
 
 
