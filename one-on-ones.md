@@ -13,7 +13,7 @@ One-on-One's are a safe space to talk about literally anything. One-on-Ones migh
 
 **It's up to you** what gets covered during the one-on-ones, so please come with questions prepared and be on time! We also ask that you let us know if you have to cancel your time slot. Be sure to slack your coach beforehand in terms of a specific location to meet. 
 
-## Sign Up with your coach below:
+## Sign up with your Coach below:
 ### EAST COAST
 ### [Sarah Brooks](https://calendar.google.com/calendar/selfsched?sstoken=UU51a0hzZWhMYWEzfGRlZmF1bHR8OTdmMmNjZTAxMmY2ZTliNzlkMjY1MmExZWE0ZTZiYTY)
 - Global Outcomes Lead
@@ -33,6 +33,7 @@ One-on-One's are a safe space to talk about literally anything. One-on-Ones migh
 
 ### [Macia Batista](https://coach-macia.youcanbook.me/index.jsp)
 - New York Career Coach
+
 
 ### WEST COAST
 ### [Joy Haugen](https://calendar.google.com/calendar/selfsched?sstoken=UUhjY1U5MFVhS1YzfGRlZmF1bHR8YzI3Yzc5YjBjMzBkYTBhZTY1MDFlY2U1ZjQwZWNmYmI)
