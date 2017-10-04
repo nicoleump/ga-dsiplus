@@ -2,7 +2,7 @@
 
 We love meeting and talking with you, please don't be shy! You can schedule a longer one-on-one with us through our calendars. You will have the opportunity to meet one-on-one with your local coach within the first five weeks of the course, but if you would like additional time, click on the links below. 
 
-One-on-One's are a safe space to talk about literally anything. One-on-Ones might include:
+One-on-Ones are a safe space to talk about literally anything. One-on-Ones might include:
 - Your previous work history 
 - Goals for your future 
 - Creating your job search strategy 
