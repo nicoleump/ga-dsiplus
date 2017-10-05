@@ -40,7 +40,7 @@ By completing the worksheet you have submitted your homework this week.
 - [Denver](https://drive.google.com/file/d/0B4Db6Ll5urG2emY3SlFwRW95WmM/view?usp=sharing)
 - [Los Angeles](https://drive.google.com/file/d/0B2TA2w6EftvNaUdWQXV5S0FHcVk/view?usp=sharing)
 - [San Francisco](https://drive.google.com/a/generalassemb.ly/file/d/0B5K--i6yxjUjeEZMck9UeGZ0QUk/view?usp=sharing) 
-- Seattle 
+- [Seattle](https://docs.google.com/presentation/d/1r3iAx6H4bg259juFj2pQ6_NL1U7wzfyE_Vh0tRHBtho/edit#slide=id.g27aa6cdc73_0_399)
 
 
 ## Further Reading and Resources: 
