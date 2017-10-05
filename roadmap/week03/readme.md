@@ -24,7 +24,7 @@ Guest presenter Mike Gardner will take you through an interactive workshop to an
 
 ## Homework: 
 
-Homework due next week: [Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master). 
+Check your class calendar for HW due next Tuesday at 7 pm 
 
 ## Further Reading/Resources:
 
