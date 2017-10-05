@@ -30,6 +30,19 @@ Review [Organizations that have hired GA DSI Graduates](https://drive.google.com
 
 By completing the worksheet you have submitted your homework this week.
 
+## Local Market Presentations 
+
+- [Atlanta](https://docs.google.com/a/generalassemb.ly/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing) 
+- [Austin](https://docs.google.com/presentation/d/1FptpJHCExFm1XUma8mhEKmSMUsZL1fzFc1jo00NPWek/edit?usp=sharing) 
+- [Boston](https://drive.google.com/file/d/0B3byrt86nJ8jVjcxdHl2MFlUclk/view?usp=sharing)
+- [Chicago](https://drive.google.com/file/d/0B79n4qzQBXGkTzBob1JJbFZ5M28/view?usp=sharing)
+- NYC 
+- [Denver](https://drive.google.com/file/d/0B4Db6Ll5urG2emY3SlFwRW95WmM/view?usp=sharing)
+- [Los Angeles](https://drive.google.com/file/d/0B2TA2w6EftvNaUdWQXV5S0FHcVk/view?usp=sharing)
+- [San Francisco](https://drive.google.com/a/generalassemb.ly/file/d/0B5K--i6yxjUjeEZMck9UeGZ0QUk/view?usp=sharing) 
+- Seattle 
+
+
 ## Further Reading and Resources: 
 - [Wharton, UPenn: ‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/8/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
