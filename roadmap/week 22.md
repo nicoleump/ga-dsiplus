@@ -36,7 +36,7 @@ By completing the worksheet you have submitted your homework this week.
 - [Austin](https://docs.google.com/presentation/d/1FptpJHCExFm1XUma8mhEKmSMUsZL1fzFc1jo00NPWek/edit?usp=sharing) 
 - [Boston](https://drive.google.com/file/d/0B3byrt86nJ8jVjcxdHl2MFlUclk/view?usp=sharing)
 - [Chicago](https://drive.google.com/file/d/0B79n4qzQBXGkTzBob1JJbFZ5M28/view?usp=sharing)
-- NYC 
+- [NYC](https://drive.google.com/file/d/0B4Db6Ll5urG2OVJvdDd3YTVxdDg/view?usp=sharing) 
 - [Denver](https://drive.google.com/file/d/0B4Db6Ll5urG2emY3SlFwRW95WmM/view?usp=sharing)
 - [Los Angeles](https://drive.google.com/file/d/0B2TA2w6EftvNaUdWQXV5S0FHcVk/view?usp=sharing)
 - [San Francisco](https://drive.google.com/a/generalassemb.ly/file/d/0B5K--i6yxjUjeEZMck9UeGZ0QUk/view?usp=sharing) 
