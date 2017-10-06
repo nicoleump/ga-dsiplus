@@ -25,7 +25,7 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Nicole Hartig](https://calendar.google.com/calendar/selfsched?sstoken=UU9rR0E5a0huOENEfGRlZmF1bHR8NWZiMjI3NjIxMTA5N2VkMzk0MWU4NDk1YjQwZDdhZjQ)
 - Austin Career Coach
 
-### [Julie Carroll](https://calendar.google.com/calendar/selfsched?sstoken=UUhUNTNEYkxmckFnfGRlZmF1bHR8ZTQ0YzhlZDRhZDViNGVhMjMzMDZiOTJhNjVlYzZhNzU&availstart=20170421)
+### [Julie Carroll](https://calendar.google.com/calendar/selfsched?sstoken=UUhUNTNEYkxmckFnfGRlZmF1bHR8ZTQ0YzhlZDRhZDViNGVhMjMzMDZiOTJhNjVlYzZhNzU)
 - Boston Career Coach
 
 ### [Taylor Manus](https://calendar.google.com/calendar/selfsched?sstoken=UURCb0VZZDdBWFY1fGRlZmF1bHR8ZTI1MDU5NGMxOTg3NTNjMzFhOWUzMGFjYjZhNTNkODY)
