@@ -49,5 +49,5 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Beth Miller](https://calendar.google.com/calendar/selfsched?sstoken=UVB0RzFfcGxZY2tofGRlZmF1bHR8NzRmYzg2NzBkMjViZTMzYmNjZjIwNWY0ZWE5MjA0MmI)
 - Seattle Career Coach
 
-### [Sam Stack](mailto:sam.stack@ga.co)
+### [Nick Anderson](https://nickanderson.youcanbook.me/)
 - Denver Career Coach
