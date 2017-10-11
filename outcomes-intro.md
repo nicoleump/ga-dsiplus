@@ -66,6 +66,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 ### Nick Anderson
 - Denver Career Coach
 - [nick.anderson.co](mailto:nick.anderson@generalassemb.ly)
+- [Meet Nick!](https://www.linkedin.com/in/nickandersonr/)
 
 
 
