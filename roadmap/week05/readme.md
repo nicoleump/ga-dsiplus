@@ -2,7 +2,7 @@
 
 ## Learning Objectives: 
 
-* Understand what it’s like to be Web Developer, UX designer, or Data Scientist
+* Understand what it’s like to be Data Scientist
 
 * See what a "Day in the Life" could look like 
 
