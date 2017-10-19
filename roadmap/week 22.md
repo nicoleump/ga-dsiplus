@@ -34,7 +34,7 @@ By completing the worksheet you have submitted your homework this week.
 
 - [Atlanta](https://docs.google.com/a/generalassemb.ly/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing) 
 - [Austin](https://docs.google.com/presentation/d/1FptpJHCExFm1XUma8mhEKmSMUsZL1fzFc1jo00NPWek/edit?usp=sharing) 
-- [Boston](https://drive.google.com/file/d/0B3byrt86nJ8jVjcxdHl2MFlUclk/view?usp=sharing)
+- [Boston](https://drive.google.com/file/d/0B3byrt86nJ8jVjcxdHl2MFlUclk/view?usp=sharing) + [Networking + LinkedIn Presentation](https://drive.google.com/file/d/0B4Db6Ll5urG2bWRZU1VYQkYtQ1k/view?usp=sharing)
 - [Chicago](https://drive.google.com/file/d/0B79n4qzQBXGkTzBob1JJbFZ5M28/view?usp=sharing)
 - [NYC](https://drive.google.com/file/d/0B4Db6Ll5urG2OVJvdDd3YTVxdDg/view?usp=sharing) 
 - [Denver](https://drive.google.com/file/d/0B4Db6Ll5urG2emY3SlFwRW95WmM/view?usp=sharing)
