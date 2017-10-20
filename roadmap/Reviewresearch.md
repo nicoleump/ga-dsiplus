@@ -1,4 +1,4 @@
-# Review, Research, and network! 
+# Review, Research, and Network! 
 
 - Review Outcomes lessons so far, be sure to check the resources section 
 - Add 3 more organizations that pique your interest to your list of organizational research 
