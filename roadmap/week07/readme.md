@@ -39,7 +39,7 @@ We do: (10/15)
 This is not an interrogation! Success will come from creating connection and a real, authentic conversation.
 
 
-**Best Practices: Mental Prep**
+## Best Practices: Mental Prep
 
 * Do your homework! Research the company and know the job.
 
@@ -70,6 +70,15 @@ This is not an interrogation! Success will come from creating connection and a r
 
     * End- what were the results? Learnings? Benefits?
 
+* Use the Star Method: 
+   * Situation - provide the context and background "Our customers complained..." 
+
+   * Task - describe the problem and challenges "We faced supply chain shortage.." 
+
+   * Action - explaine what you did to solve it and how "I solved it by..."
+
+   * Results - state benefits, savings, rewards, acknowledgement "The impact of..."
+
 * Be yourself! Let your personality come through and be confident. You got this!
 
 * This is a two-way street. You’re interviewing them as much as they’re interviewing you. Have questions to ask!
@@ -93,7 +102,7 @@ Finish with the future - why you are really excited for this particular opportun
 
 * Where are you going?/Why should we care?
 
-**We do:** Volunteer interviews in front of class
+## We do: Volunteer interviews in front of class
 
 (Volunteers from class answer question, students provide feedback)
 
@@ -138,19 +147,7 @@ Check your class calendar for your HW assignment due next Monday
 
 [The Muse: Pleasantly Persistent: 5 Rules for Effectively Following Up](https://www.themuse.com/advice/pleasantly-persistent-5-rules-for-effectively-following-up)
 
-[The Muse: 4 Ways You Can Take Back Control During a Never-Ending Interview Process](https://www.themuse.com/advice/4-ways-you-can-take-back-control-during-a-neverending-interview-process?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
-
-**Negotiating:**
-
-[31+ Killer Salary Negotiating Scripts (email examples) ](http://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
-
-[4 Most Powerful Salary Negotiation Tactics](http://money.usnews.com/money/blogs/outside-voices-careers/2015/06/29/the-4-most-powerful-salary-negotiation-tactics)
-
-[How to Negotiate your Salary](http://lifehacker.com/how-to-negotiate-your-salary-1566202988)
-
-[99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
-
-[Paysa](https://www.paysa.com/)  
+[The Muse: 4 Ways You Can Take Back Control During a Never-Ending Interview Process](https://www.themuse.com/advice/4-ways-you-can-take-back-control-during-a-neverending-interview-process?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web) 
 
 **Interviewing:**
 
