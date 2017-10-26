@@ -1,4 +1,4 @@
-# Preparing for the Interview 
+# Preparing for the Behavioral Interview 
 
 ## Learning Objectives:
 
