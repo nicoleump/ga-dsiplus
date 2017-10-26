@@ -39,14 +39,14 @@ This is not an interrogation! Success will come from creating connection and a r
 
 * Have at least 3 professional stories ready to share (these can also be the examples for the skills - you can use these for answer to other questions)
 
-* Use the Star Method: 
-   * Situation - provide the context and background "Our customers complained..." 
+* Use the STAR Method: 
+   * **S**ituation - provide the context and background "Our customers complained..." 
 
-   * Task - describe the problem and challenges "We faced supply chain shortage.." 
+   * **T**ask - describe the problem and challenges "We faced supply chain shortage.." 
 
-   * Action - explaine what you did to solve it and how "I solved it by..."
+   * **A**ction - explaine what you did to solve it and how "I solved it by..."
 
-   * Results - state benefits, savings, rewards, acknowledgement "The impact of..."
+   * **R**esults - state benefits, savings, rewards, acknowledgement "The impact of..."
 
 * Be yourself! Let your personality come through and be confident. You got this!
 
