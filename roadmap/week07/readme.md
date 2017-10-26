@@ -2,15 +2,13 @@
 
 ## Learning Objectives:
 
-* Understand what makes a successful interview + negotiation
+* Understand what makes a successful interview 
 
 * How to prepare for the interview
 
 * How to present your unique story
 
-* Know when to negotiate and talk money in the interview process
-
-* Practicing interviewing + negotiation
+* Practicing interviewing 
 
 ## Framing: (5/5)
 
