@@ -51,24 +51,7 @@ This is not an interrogation! Success will come from creating connection and a r
 
     * Give an example  
 
-
-* Use the SEX approach:
-
-    * **S**tatement
-
-    * **E**xplanation
-
-    * E**x**ample (1 or 2 examples to illustrate a skill)
-
 * Have at least 3 professional stories ready to share (these can also be the examples for the skills - you can use these for answer to other questions)
-
-    * Each story should have:
-
-    * Beginning - situation, set the scene
-
-    * Middle - what was the challenge, what did you do about it?
-
-    * End- what were the results? Learnings? Benefits?
 
 * Use the Star Method: 
    * Situation - provide the context and background "Our customers complained..." 
@@ -128,7 +111,7 @@ Interviewers will ask the interviewee a minimum of 3 questions (10 minutes). Que
 
 The Interviewer will give feedback to the interviewee (5 minutes)
 
-* As a group, they will share and discuss their feedback together and complete the [Peer Review Interview Rubric](https://docs.google.com/spreadsheets/d/1L1OP8HAgj6MZRJz2Z-Q_v79ATSBWeD_iQOlzuiPzoQo/edit#gid=1104109572).
+* As a group, we will share and discuss their feedback together and complete the [Peer Review Interview Rubric](https://docs.google.com/spreadsheets/d/1L1OP8HAgj6MZRJz2Z-Q_v79ATSBWeD_iQOlzuiPzoQo/edit#gid=1104109572).
 
 After 15 min, we’ll switch roles.
 
