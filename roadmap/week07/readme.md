@@ -20,16 +20,6 @@ We do: (10/15)
 
 * What are you most concerned about in interview process?
 
-* What are your perceptions going into an interview?  
-
-* Does anyone have any stories to share?
-
-* What would have made the interview better?
-
-* What has been a great interview for you? A horrible one?
-
-* Anyone interviewed someone and had a great or bad experience?
-
 **Remember:**
 
 This is not an interrogation! Success will come from creating connection and a real, authentic conversation.
@@ -37,7 +27,7 @@ This is not an interrogation! Success will come from creating connection and a r
 
 ## Best Practices: Mental Prep
 
-* Do your homework! Research the company and know the job.
+* Do your homework! Research the company and know the job. Research the people who are interviewing you - find out if they have written on the company blog or posts on LinkedIn and Medium and read them! 
 
 * Practice telling your story and talking about your projects.
 
