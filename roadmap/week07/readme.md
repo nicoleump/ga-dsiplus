@@ -8,7 +8,7 @@
 
 * How to present your unique story
 
-* Practicing interviewing 
+* Practice interviewing 
 
 ## Framing: (5/5)
 
