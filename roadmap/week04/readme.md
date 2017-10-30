@@ -2,19 +2,19 @@
 
 ## Learning Objectives:
 
-* Understand how to create a successful resume and LinkedIn Profile that will get noticed
+* Understand how to create a successful resume, cover letter and LinkedIn Profile that will get noticed
 
 * Communicate your GA experience effectively on your resume and LinkedIn
 
 * Organize content on your resume to tell the story of your career transition
 
-* Create a draft resume
+* Create a draft resume and cover letter
 
 * Update your LinkedIn profile 
 
 ## Framing: (5/0) 
 
-We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on.
+We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on throughout the course.
 
 ## I do: (10/15) 
 
@@ -44,7 +44,7 @@ Do your research - your resume is your personal advertisement
 
 4. Relevant Experience:
 
-    1. General Assembly XX IMMERSIVE STUDENT + description
+    1. General Assembly XX IMMERSIVE Experience + description
 
     2. Projects
 
@@ -113,7 +113,7 @@ Find your career crushes and ask them to coffee.
 - Hi Name! I'm a current Data Science student at GA and I'm looking to learn more about the tech field in CITY. I was really impressed by your career path and would love to pick your brain. Would you be open to coffee (my treat) or a quick phone call in the next couple of weeks? 
 
 Whenever you are interested in an organization, search to see if you have any 1st, 2nd, or 3rd degree connections to that organization, and then ask for a connection
-- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in CITY. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
+- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in CITY. I saw that you are connected to ABC and I'm very interested in that organization. Would you be willing to connect us? I've written an email below that you can copy and paste: 
 
 ### Updating your LinkedIn 
 First of all, turn off notifications when you are making lots of edits (Click your headshot > Settings + Privacy > Privacy tab > "Sharing Profile Edits" half way down the page)
@@ -155,7 +155,7 @@ Begin your draft resume
 - GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
 
 **DSI**
-Data Science Immersive Student
+Data Science Immersive Program
 
 Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
