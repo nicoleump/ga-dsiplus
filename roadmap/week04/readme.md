@@ -163,9 +163,16 @@ Participated in a full-time immersive Data Science course, completing in-class p
 ## Homework 
 Check your class calendar for your HW assignment due next Monday at 7 pm
 
-## Further Reading/Resources:
+## Local Market Presentations:
 
-[Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrWnBHc2dIb29XTUU)
+[General Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
+[Chicago Resume & Cover Letter Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMVN6ZlZDM3ZDbzQ)
+[Chicago LinkedIn Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMnlYY0RPY3F5VmM)
+[NYC Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1-GOHmpZDHk26voj_XCbwcTCDC95X3_SJnms1lsyH5GE/edit#slide=id.g16e70d5d09_0_423)
+[SF Resumes & Cover Letters Slide Deck](https://drive.google.com/file/d/0B5K--i6yxjUjRzd0a3c3clZ2LVk/view)
+[Seattle Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1Hb5VGCDl88_0e0gMo2wEl22DPl-_rxjkqWoaSmXiR5g/edit#slide=id.g1afc60742f_0_183)
+
+## Additional Resources:
 
 Resume templates: 
 
