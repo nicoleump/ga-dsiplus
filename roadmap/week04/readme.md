@@ -161,7 +161,7 @@ Participated in a full-time immersive Data Science course, completing in-class p
 
 
 ## Homework 
-Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
+Check your class calendar for your HW assignment due next Monday at 7 pm
 
 ## Further Reading/Resources:
 
