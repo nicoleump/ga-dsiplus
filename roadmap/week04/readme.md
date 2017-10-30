@@ -177,6 +177,12 @@ Resume templates:
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
+[What it Really Means to "Tailor Your Resume"](https://www.themuse.com/advice/what-it-really-means-to-tailor-your-resume)
+
+[185 Powerful Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
+
+[GitHub Is Your Resume Now](https://anti-pattern.com/github-is-your-resume-now)
+
 [Aline Lerner’s Blog: Lessons From a Year’s Worth of Hiring Data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 
 [Forbes: 9 Key Things the Hiring Manager is Looking for on Your Developer Resume](http://www.forbes.com/sites/dailymuse/2016/02/09/9-key-things-the-hiring-manager-is-looking-for-on-your-developer-resume/#2d0f465234e8)
