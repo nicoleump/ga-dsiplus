@@ -168,6 +168,7 @@ Check your class calendar for your HW assignment due next Monday at 7 pm
 - [General Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
 - [Austin Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1EE9TYkd9vNBH-DevDYe0nLQHDXDOlf-AExeRWu2IXtQ/edit#slide=id.gf4f42c7f8_0_1)
 - [Atlanta Resumes, Cover Letters & LinkedIn Slide Deck](https://docs.google.com/presentation/d/13dF0O1HiZTp6FRQDLWJ5tC1tFB_mh9Qsc1ZH2fBh9hY/edit?usp=sharing)
+- [Boston Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
 - [Chicago Resume & Cover Letter Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMVN6ZlZDM3ZDbzQ)
 - [Chicago LinkedIn Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMnlYY0RPY3F5VmM)
 - [Denver Resumes & Cover Letters Slide Deck](https://drive.google.com/file/d/0BxJQJ7qd3ME9SDNHbThlSThjS0E/view)
