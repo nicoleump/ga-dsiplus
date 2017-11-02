@@ -136,7 +136,7 @@ How much does it cost to live your life?
 
 Average salaries for GA graduates:
 
-DSI: $65K - $85K
+DSI: $55K - $90K
 
 Check Glassdoor, ask us, ask alumni, Google!
 
@@ -173,7 +173,8 @@ Check your class calendar for your HW assingment due next Monday.
 
 ## Further Reading/ Resources:
 
-[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrTFZDcjJiWVM2MTg)
+[Defining your Non-negotiables and Negotiating like a Boss 
+ Slides](https://drive.google.com/open?id=14Nhq2hba6eLKKSEmDvjwPAEIzCjvd4qI)
 
 
 **Negotiating:**
