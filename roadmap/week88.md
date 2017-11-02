@@ -136,10 +136,6 @@ How much does it cost to live your life?
 
 Average salaries for GA graduates:
 
-UX: $60 - $80K
-
-WDI: $60 - $80K
-
 DSI: $65K - $85K
 
 Check Glassdoor, ask us, ask alumni, Google!
