@@ -72,15 +72,15 @@ The parts to your portfolio & Must Haves:
 
 GA Example Portfolios:
 
-* Cody Laminack [Cody Laminack](https://www.codylaminack.com/)
+* [Cody Laminack](https://www.codylaminack.com/)
 
-* David Ortiz [https://ortizdav18.github.io/My_Website/](https://ortizdav18.github.io/My_Website/)
+* [David Ortiz](https://ortizdav18.github.io/My_Website/)
 
-* Michael Sanders [https://michaeljsanders.com/portfolio/](https://michaeljsanders.com/portfolio/)
+* [Michael Sanders](https://michaeljsanders.com/portfolio/)
 
-* Najiyah Khan [https://github.com/NKhan121/Portfolio](https://github.com/NKhan121/Portfolio)
+* [Najiyah Khan](https://github.com/NKhan121/Portfolio)
 
-* Thomas Plapinger [https://www.thomasplapinger.com/](https://www.thomasplapinger.com/)
+* [Thomas Plapinger](https://www.thomasplapinger.com/)
 
 
 
