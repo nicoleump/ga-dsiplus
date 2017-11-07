@@ -18,7 +18,7 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 
 ## Portfolio:
 
-## I do: (20/25)
+## I do: 
 
 **What makes a great portfolio:**
 
@@ -123,7 +123,7 @@ Below are a few options that we recommend you consider when creating your portfo
 
 We’ll walk you through best practices in creating your GA profile. It is handy to have your updated resume handy.
 
-## You do: (60/75)
+## You do: 
 
 Create your draft GA Profile
 
@@ -131,11 +131,17 @@ Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.general
 
 ## Remainder of class:
 
-Create your draft GA Profile and time to meet 1:1 with your coach.
+Create your draft GA Profile. Remember that once your GA Profile is live, it is visible to hiriring partners and recruiters. Be extra diligent with your spelling, grammar and attention to detail. 
+
+The goal is to have your GA Profile be active and live as soon as possible, so use this time to create it.  Once you feel like you are ready to submit, have 3 peers review it. 
+
+This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
+
 
 ## Homework 
 
 Check your class calendar for HW due next Tuesday at 7 pm
+
 
 ## Further Reading/ Resources:
 
@@ -166,7 +172,7 @@ Check your class calendar for HW due next Tuesday at 7 pm
 * [24 Great Personal Websites](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own)
 
 
-**GA Profile examples:** 
+**GA Profile Examples:** 
 
 * [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
