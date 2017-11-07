@@ -14,7 +14,7 @@
 
 ## Framing: 
 
-Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
+Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni GA Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
 
 ## Portfolio:
 
@@ -172,7 +172,7 @@ Check your class calendar for HW due next Tuesday at 7 pm
 * [24 Great Personal Websites](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own)
 
 
-**Other GA Profile Examples:** 
+**Alumni GA Profile Examples:** 
 
 * [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
