@@ -172,11 +172,9 @@ Check your class calendar for HW due next Tuesday at 7 pm
 * [24 Great Personal Websites](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own)
 
 
-**GA Profile Examples:** 
+**Other GA Profile Examples:** 
 
 * [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
-
-* [Cody Laminack](https://profiles.generalassemb.ly/cody-laminack)
 
 * [Faith Burt](https://profiles.generalassemb.ly/faith-burt)
 
