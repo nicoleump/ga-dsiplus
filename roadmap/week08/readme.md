@@ -60,7 +60,7 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 
 * People who are curious about your skills
 
-**The parts to your portfolio & Must Haves:**
+**The Parts to Your Portfolio & Must Haves:**
 
 * Initial page that pulls reader in for more information, create a tease so they want more
 
@@ -71,7 +71,8 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 * Contact page: Links to your Resume, LinkedIn, Github and contact information
 
 **Options to Create a Portfolio:**
-* Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated.
+
+Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated.
 
 [Carrd](https://carrd.co/)
 
@@ -167,17 +168,17 @@ Check your class calendar for HW due next Tuesday at 7 pm
 
 **GA Profile examples:** 
 
-[Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
+* [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
-[Cody Laminack](https://profiles.generalassemb.ly/cody-laminack)
+* [Cody Laminack](https://profiles.generalassemb.ly/cody-laminack)
 
-[Faith Burt](https://profiles.generalassemb.ly/faith-burt)
+* [Faith Burt](https://profiles.generalassemb.ly/faith-burt)
 
-[Haley Boyan](https://profiles.generalassemb.ly/profiles/hboyan)
+* [Haley Boyan](https://profiles.generalassemb.ly/profiles/hboyan)
 
-[John Blakeman](https://profiles.generalassemb.ly/john-blakeman)
+* [John Blakeman](https://profiles.generalassemb.ly/john-blakeman)
 
-[Melissa Steffan](https://profiles.generalassemb.ly/melissa-steffan)
+* [Melissa Steffan](https://profiles.generalassemb.ly/melissa-steffan)
 
-[Ramya Ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
+* [Ramya Ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
 
