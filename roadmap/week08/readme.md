@@ -12,7 +12,7 @@
 
 * Best practices in creating a portfolio 
 
-## Framing: (5/5)
+## Framing: 
 
 Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
 
@@ -71,7 +71,7 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 * Contact page: Links to your Resume, LinkedIn, Github and contact information
 
 **Options to Create a Portfolio:**
-Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated.
+* Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated.
 
 [Carrd](https://carrd.co/)
 
@@ -118,9 +118,9 @@ Below are a few options that we recommend you consider when creating your portfo
 * Free
 
 
-**GA Profile**
+## GA Profiles:
 
-We’ll walk you through best practices in creating your GA profile
+We’ll walk you through best practices in creating your GA profile. It is handy to have your updated resume handy.
 
 ## You do: (60/75)
 
@@ -133,7 +133,8 @@ Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.general
 Create your draft GA Profile and time to meet 1:1 with your coach.
 
 ## Homework 
-Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
+
+Check your class calendar for HW due next Tuesday at 7 pm
 
 ## Further Reading/ Resources:
 
@@ -166,16 +167,17 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 
 **GA Profile examples:** 
 
-[https://profiles.generalassemb.ly/profiles/alex-winn](https://profiles.generalassemb.ly/profiles/alex-winn)
+[Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
-[https://profiles.generalassemb.ly/profiles/ramya-ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
+[Cody Laminack](https://profiles.generalassemb.ly/cody-laminack)
 
-[https://profiles.generalassemb.ly/melissa-steffan](https://profiles.generalassemb.ly/melissa-steffan)
+[Faith Burt](https://profiles.generalassemb.ly/faith-burt)
 
-[https://profiles.generalassemb.ly/john-blakeman](https://profiles.generalassemb.ly/john-blakeman)
+[Haley Boyan](https://profiles.generalassemb.ly/profiles/hboyan)
 
-[https://profiles.generalassemb.ly/faith-burt](https://profiles.generalassemb.ly/faith-burt)
+[John Blakeman](https://profiles.generalassemb.ly/john-blakeman)
 
-[https://profiles.generalassemb.ly/profiles/hboyan](https://profiles.generalassemb.ly/profiles/hboyan)
+[Melissa Steffan](https://profiles.generalassemb.ly/melissa-steffan)
 
-[https://profiles.generalassemb.ly/cody-laminack](https://profiles.generalassemb.ly/cody-laminack)
+[Ramya Ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
+
