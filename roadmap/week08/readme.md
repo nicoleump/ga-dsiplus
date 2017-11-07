@@ -14,7 +14,9 @@
 
 ## Framing: (5/5)
 
-Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy.
+Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
+
+## Portfolio:
 
 ## I do: (20/25)
 
@@ -26,15 +28,62 @@ What makes a great portfolio:
 
 * Shows your unique personality
 
-Must haves:
+Goals of a Portfolio:
 
-* Initial page pulls them in for more information, create a tease so they want more
+* Designed to solve a problem for a user
 
-* About page: Headshot, short description (brand statement + a bit more), contact information, and link to resume
+* Showcases personal brand and unique attributes
 
-* Projects: Screenshot, links
+* Consistent output across multiple medias
 
-* Each project should have a description that highlights your methodology and process
+* Projects presented are quality over quantity
+
+* Demonstrates technical skill
+
+* Depth of process communicated effectively
+
+* Shows impact of work and validation
+
+* Your role is clear vs. others’ roles in projects
+
+Portfolios should communicate:
+
+* Who you are and what you do
+
+* What you have worked on
+
+* How to contact you
+
+Audience:
+
+* Future Employers (Hiring Managers/Recruiters/Data Scientists)
+
+* People who are curious about your skills
+
+The parts to your portfolio & Must Haves:
+
+* Initial page that pulls reader in for more information, create a tease so they want more
+
+* About page: Headshot, short description (brand statement + a bit more), should be clear who you are and what you do
+
+* Each project should have a description that highlights your methodology and process with a screenshot
+
+* Contact page: Links to your Resume, LinkedIn, Github and contact information
+
+GA Example Portfolios:
+
+* Cody Laminack [https://www.codylaminack.com/](https://www.codylaminack.com/)
+
+* David Ortiz [https://ortizdav18.github.io/My_Website/](https://ortizdav18.github.io/My_Website/)
+
+* Michael Sanders [https://michaeljsanders.com/portfolio/](https://michaeljsanders.com/portfolio/)
+
+* Najiyah Khan [https://github.com/NKhan121/Portfolio](https://github.com/NKhan121/Portfolio)
+
+* Thomas Plapinger [https://www.thomasplapinger.com/](https://www.thomasplapinger.com/)
+
+
+
 
 **GA Profile**
 
