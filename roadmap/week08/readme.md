@@ -125,7 +125,7 @@ We’ll walk you through best practices in creating your GA profile. It is handy
 
 ## You do: 
 
-Create your draft GA Profile
+Create your draft GA Profile.  You will need to use the email address that you signed up for GA with to access GA Profiles.
 
 Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.generalassemb.ly/profiles/new)
 
