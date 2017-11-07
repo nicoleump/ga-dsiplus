@@ -169,12 +169,12 @@ After 10 min, we’ll switch roles.
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
 ## Homework 
-Check your class calendar for your HW assingment due next Monday. 
+Check your class calendar for your HW assingment due next Monday at 7PM. 
 
 ## Further Reading/ Resources:
 
 [Defining your Non-negotiables and Negotiating like a Boss 
- Slides](https://drive.google.com/open?id=14Nhq2hba6eLKKSEmDvjwPAEIzCjvd4qI)
+ Slides](https://drive.google.com/file/d/1XR6w_v9uKqvLo1XVAloRkqY7F8Ybc5P5/view?usp=sharing)
 
 
 **Negotiating:**
