@@ -72,7 +72,7 @@ The parts to your portfolio & Must Haves:
 
 GA Example Portfolios:
 
-* Cody Laminack [https://www.codylaminack.com/](https://www.codylaminack.com/)
+* Cody Laminack [https://www.codylaminack.com/]
 
 * David Ortiz [https://ortizdav18.github.io/My_Website/](https://ortizdav18.github.io/My_Website/)
 
