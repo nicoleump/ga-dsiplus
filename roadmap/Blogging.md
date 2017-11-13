@@ -40,6 +40,7 @@ Medium does a few things for you that make it an optimal choice:
 * Keep time to read around 6 to 7 minutes.
 * Never publish on Monday but instead shoot for Tuesdays or Saturdays.
 * Use a simple call to action to end all your articles for the most recommends.
+* Plan to post at least one blog every other week when job searching
 * For every blog you post on Medium, copy it to LinkedIn (Double your exposure!) 
 
 **For every project, write a blog post!**  
@@ -67,7 +68,15 @@ When writing about your project, here are some questions to keep in mind. In fac
 20. How you would explain what you did to a non-data scientist
 
 
+## Resources:
 
+*  [How to Use Medium: A Beginner's Guide to Writing, Publishing & Promoting on the Platform](https://blog.hubspot.com/marketing/how-to-use-medium)
+*  [What makes an article popular on Medium?](https://medium.com/the-mission/after-10-000-data-points-we-figured-out-how-to-write-a-perfect-medium-post-58c41c314f6a)
+* [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 
+## GA Example Blogs:
 
-
+*  [Cody Laminack](http://www.codylaminack.com/projects)
+*  [Baur Safi](https://medium.com/@baursafi)
+*  [Mike Sanders](https://michaeljsanders.com/)
+*  [Yoni Levine](https://medium.com/@yoni.levine)
