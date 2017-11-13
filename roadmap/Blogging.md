@@ -2,7 +2,7 @@
 
 ## Learning Objectives:
 
-* Identify reasons why blogging is a strong career step (and fun!)
+* Identify reasons why blogging is a strong career step 
 * Determine what makes a good blog
 * Best Practices for a good blog
 
@@ -17,7 +17,7 @@ For GA's specific education model, learning-by-doing is complemented exceptional
 
 It's fun! Blogging shouldn't and doesn't need to be a burden. Your blog is yours. Its topics, by definition, reveal your interests. This makes it easy to continue to write. As an added bonus, blogging keeps you sharp on your skills, applied to a topic of YOUR choice.
 
-Blogging is a great way to share your technical talents withboth non technical and technical audiences as a job seeker to gain exposure to who you are and what you do.  Think about how hiring managers can gain insight into how you think.  What if you are not sitting right next to them to walk them through your project.  Your blog can do that for them! 
+Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do.  Think about how hiring managers can gain insight into how you think.  What if you are not sitting right next to them to walk them through your project.  Your blog can do that for them! 
 
 ## How to do it:
 
@@ -29,7 +29,7 @@ To make life easy for yourself, we recommend using a service that does it for yo
 
 Medium does a few things for you that make it an optimal choice:
 
-* Content looks nice - without us working hard!
+* Content looks nice - without working hard!
 * It exposes you to an audience immediately via hashtags and follows!
 * It sources ideas for you for the same above reasion!
 
@@ -40,7 +40,7 @@ Medium does a few things for you that make it an optimal choice:
 * Keep time to read around 6 to 7 minutes.
 * Never publish on Monday but instead shoot for Tuesdays or Saturdays.
 * Use a simple call to action to end all your articles for the most recommends.
-* Plan to post at least one blog every other week when job searching
+* Plan to post at least one blog every other week when job searching.
 * For every blog you post on Medium, copy it to LinkedIn (Double your exposure!) 
 
 **For every project, write a blog post!**  
