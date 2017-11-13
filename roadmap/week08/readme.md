@@ -129,6 +129,7 @@ Create your draft GA Profile.  You will need to use the email address that you s
 
 Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.generalassemb.ly/profiles/new)
 
+
 ## Remainder of class:
 
 Create your draft GA Profile. Remember that once your GA Profile is live, it is visible to hiriring partners and recruiters. Be extra diligent with your spelling, grammar and attention to detail. 
