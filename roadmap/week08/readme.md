@@ -121,7 +121,7 @@ Below are a few options that we recommend you consider when creating your portfo
 * Free
 
 ## Project Best Practices:
-Projects
+Projects are a great way to showcase your your skills in a way that that your user can see how you actually put the skills you learned to action.  With each project, think about how you can convey your talents, your skills, your role, and the impact/result of the scenario.  Here are some general best practices!  
 
 ## GA Profiles:
 
