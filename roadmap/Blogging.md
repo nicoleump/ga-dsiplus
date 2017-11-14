@@ -35,7 +35,7 @@ Medium does a few things for you that make it an optimal choice:
 
 **To stand out on Medium:**
 * Write for a 6th-grade reading level
-* Use a power words mixed with sentence case styling to make the title unique and memorable.
+* Use power words mixed with sentence case styling to make the title unique and memorable.
 * Write sentences that are concise and average 12–15 words
 * Keep time to read around 6 to 7 minutes.
 * Never publish on Monday but instead shoot for Tuesdays or Saturdays.
