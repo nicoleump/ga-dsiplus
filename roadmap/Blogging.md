@@ -35,13 +35,13 @@ Medium does a few things for you that make it an optimal choice:
 
 **To stand out on Medium:**
 * Write for a 6th-grade reading level
-* Use power words mixed with sentence case styling to make the title unique and memorable.
+* Use power words mixed with sentence case styling to make the title unique and memorable
 * Write sentences that are concise and average 12–15 words
-* Keep time to read around 6 to 7 minutes.
-* Never publish on Monday but instead shoot for Tuesdays or Saturdays.
-* Use a simple call to action to end all your articles for the most recommends.
-* Plan to post at least one blog every other week when job searching.
-* For every blog you post on Medium, copy it to LinkedIn (Double your exposure!) 
+* Keep time to read around 6 to 7 minutes
+* Never publish on Monday but instead shoot for Tuesdays or Saturdays
+* Use a simple call to action to end all your articles for the most recommends
+* Plan to post at least one blog every other week when job searching
+* For every blog you post on Medium, also share it on LinkedIn (Double your exposure!) 
 
 **For every project, write a blog post!**  
 When writing about your project, here are some questions to keep in mind. In fact, you might even have these as individual sections. There are 20 main things to cover: 
