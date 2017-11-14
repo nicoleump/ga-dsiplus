@@ -46,6 +46,8 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 
 * Your role is clear vs. others’ roles in projects
 
+* Build trust with employers (prove you can do the work that they need you to do)
+
 **Portfolios should communicate:**
 
 * Who you are and what you do
@@ -118,6 +120,8 @@ Below are a few options that we recommend you consider when creating your portfo
 
 * Free
 
+## Project Best Practices:
+Projects
 
 ## GA Profiles:
 
