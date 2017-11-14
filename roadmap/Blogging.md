@@ -11,13 +11,13 @@
 
 There are three primary reasons.
 
-Blogging of any kind is a great way to increase exposure. This is especially true in technical fields, where blogs become less of a "nice to have" and more of gateway. Conjecture: blogging is to tech as Twitter is to journalism. In journalism, Twitter is where writers source ideas, interact with readers, break stories, and gain credibility (as a result of the aforementioned). In technology, blogs are where prominent developers share How Tos, find other like-minded hackers, introduce new methods, and prove legitimacy.
+**Blogging of any kind is a great way to increase exposure.** This is especially true in technical fields, where blogs become less of a "nice to have" and more of gateway. Conjecture: blogging is to tech as Twitter is to journalism. In journalism, Twitter is where writers source ideas, interact with readers, break stories, and gain credibility (as a result of the aforementioned). In technology, blogs are where prominent developers share How Tos, find other like-minded hackers, introduce new methods, and prove legitimacy.
 
-For GA's specific education model, learning-by-doing is complemented exceptionally well by proving-by-showing. We invite students to prove themselves through demonstrated work products. This model works exceptionally well in technology. The world's most used product (with 1.7B users) was built by someone without a college degree. The same is true for the world's richest individual. Anecdotes aside, tech is an area where meritocracy rules. And that rules. You have the power, independent of any institution, to prove your value, which is what being a job seeker is all about. 
+For GA's specific education model, learning-by-doing is complemented exceptionally well by **proving-by-showing.** We invite students to prove themselves through demonstrated work products. This model works exceptionally well in technology. The world's most used product (with 1.7B users) was built by someone without a college degree. The same is true for the world's richest individual. Anecdotes aside, tech is an area where meritocracy rules. And that rules. You have the power, independent of any institution, to prove your value, which is what being a job seeker is all about. 
 
-It's fun! Blogging shouldn't and doesn't need to be a burden. Your blog is yours. Its topics, by definition, reveal your interests. This makes it easy to continue to write. As an added bonus, blogging keeps you sharp on your skills, applied to a topic of YOUR choice.
+**It's fun!** Blogging shouldn't and doesn't need to be a burden. Your blog is yours. Its topics, by definition, reveal your interests. This makes it easy to continue to write. As an added bonus, blogging keeps you sharp on your skills, applied to a topic of YOUR choice.
 
-Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do.  Think about how hiring managers can gain insight into how you think.  What if you are not sitting right next to them to walk them through your project.  Your blog can do that for them! 
+Blogging is a great way to share your technical talents with both **non technical and technical audiences** as a job seeker to gain exposure to who you are and what you do.  Think about how hiring managers can gain insight into how you think.  What if you are not sitting right next to them to walk them through your project.  Your blog can do that for them! 
 
 ## How to do it:
 
@@ -76,7 +76,6 @@ When writing about your project, here are some questions to keep in mind. In fac
 
 ## GA Example Blogs:
 
-*  [Cody Laminack](http://www.codylaminack.com/projects)
 *  [Baur Safi](https://medium.com/@baursafi)
 *  [Mike Sanders](https://michaeljsanders.com/)
 *  [Yoni Levine](https://medium.com/@yoni.levine)
