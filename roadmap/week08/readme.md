@@ -123,6 +123,38 @@ Below are a few options that we recommend you consider when creating your portfo
 ## Project Best Practices:
 Projects are a great way to showcase your your skills in a way that that your user can see how you actually put the skills you learned to action.  With each project, think about how you can convey your talents, your skills, your role, and the impact/result of the scenario.  Here are some general best practices!  
 
+Each of your projects should cover the below flow:
+* Data gathering 
+* Data cleaning 
+* Exploring data
+* Modeling with data 
+* Communicating results 
+
+When writing about your project, here are some questions to keep in mind. 
+
+What question you are looking to answer?
+Why does this question matter?
+What data did you use?
+Where you got the data?
+How was the data sampled?
+How was the data obtained?
+How did you explore the data?
+How did you model the data?
+Why you chose to model it that way?
+What code did you write / use?
+How did you fit the model?
+How did you validated the model?
+How you know the results make sense?
+How did you visualized the results?
+How you would communicate the results to others?
+What did you learn?
+What you would do differently if you did this project again?
+If you were going to continue this work, what next steps you would take with this project?
+How you would explain what you did to a data scientist?
+How you would explain what you did to a non-data scientist
+
+
+
 ## GA Profiles:
 
 We’ll walk you through best practices in creating your GA profile. It is handy to have your updated resume handy.
@@ -166,6 +198,10 @@ Check your class calendar for HW due next Tuesday at 7 pm
 
 * [Sam Bozek](https://sambozek.github.io/capstone.html#capstone)
 
+* [Sajal Sharma](https://github.com/sajal2692)
+
+* [Tim Dettmers](http://timdettmers.com/data-science-portfolio/)
+
 **Portfolio Resources:**
 
 * [Build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
@@ -175,6 +211,14 @@ Check your class calendar for HW due next Tuesday at 7 pm
 * [The Muse: 4 Secrets to Building a Portfolio That’ll Make Everyone Want to Hire You](https://www.themuse.com/advice/4-secrets-to-building-a-portfolio-thatll-make-everyone-want-to-hire-you?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=4%20Secrets%20to%20Building%20a%20Portfolio%20That%27ll%20Make%20Everyone%20Want%20to%20Hire%20You)
 
 * [24 Great Personal Websites](https://www.themuse.com/advice/our-24-favorite-onepage-personal-websites-will-inspire-you-to-make-your-own)
+
+* [How You Should Create A Data Science Portfolio That Will Get You Hired](https://www.datascienceweekly.org/articles/how-you-should-create-a-data-science-portfolio-that-will-get-you-hired)
+
+* [Building a Portfolio](https://towardsdatascience.com/becoming-a-machine-learning-engineer-step-5-build-a-portfolio-31d219e40fbc)
+
+* [Portfolios that Get Noticed](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+
+* [Components of a Portfolio](https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio)
 
 
 **Alumni GA Profile Examples:** 
