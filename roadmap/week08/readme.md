@@ -183,7 +183,7 @@ More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap
 
 ## Homework 
 
-Check your class calendar for HW due next Tuesday at 7 pm
+Check your class calendar for HW due next Monday at 7 pm
 
 
 ## Further Reading/ Resources:
