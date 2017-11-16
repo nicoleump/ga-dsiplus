@@ -139,6 +139,7 @@ Ask for recommendations: former bosses, coworkers, clients
 - [Join GA Alumni Group](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
 
 ### Getting the Most out of LinkedIn
+- [LinkedIn Checklist](https://docs.google.com/document/d/19__gv_yyaCs47Nk9LLszbJduf79AtYFeYl2kUcf8p9c/edit) 
 - Join relevant groups (JS devs, Data Science, UX etc.) 
 - Follow your favorite companies 
 - Meet strangers and request informational interviews 
@@ -187,6 +188,8 @@ Resume templates:
 - [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 - [UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
+
+[LinkedIn Checklist](https://docs.google.com/document/d/19__gv_yyaCs47Nk9LLszbJduf79AtYFeYl2kUcf8p9c/edit) 
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
