@@ -174,6 +174,12 @@ The goal is to have your GA Profile be active and live as soon as possible, so u
 
 This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
 
+## Blogging
+Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
+
+We will talk more in depth about blogging post graduation, but you will want to be thinking about how you will want to incorporate blogging into your job search. 
+
+More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
 
 ## Homework 
 
