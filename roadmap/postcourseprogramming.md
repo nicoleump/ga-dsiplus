@@ -5,7 +5,7 @@ Congrats, you graduated from GA’s Immersive Program! We are so proud of all of
 # Holiday Homework
 You  are strongly encouraged to complete the below by **January 2nd, 2018**. These activities will help kick off 2018 on the right foot and set you up for success as you get ready for Outcomes Post Programming. Remember, the first 45 days are the most critical! 
 
-**[DSI+ Outcomes Holiday Homework]**(https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)
+**[DSI+ Outcomes Holiday Homework](https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)
 
 # Meet & Hire Networking Event 
 
@@ -102,4 +102,4 @@ NAME, EMAIL, PHONE
 **Denver:** TBD
 
 
-**[Connecting with your coach]**(https://github.com/ga-students/ga-dsiplus/blob/master/one-on-ones.md)
+**[Connecting with your coach](https://github.com/ga-students/ga-dsiplus/blob/master/one-on-ones.md)
