@@ -3,9 +3,10 @@
 Congrats, you graduated from GA’s Immersive Program! We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  You will work closely with your coach to discover how to best sell your talents to employers and set yourself up for success in your job search. Here are some things to be aware of going forward. 
 
 # Holiday Homework
-You  are strongly encouraged to complete the below by **January 2nd, 2018**. These activities will help kick off 2018 on the right foot and set you up for success as you get ready for Outcomes Post Programming. Remember, the first 45 days are the most critical! 
+You  are strongly encouraged to complete the below by **January 2, 2018**. These activities will help kick off 2018 on the right foot and set you up for success as you get ready for Outcomes Post Programming. Remember, the first 45 days are the most critical! 
 
 **[DSI+ Outcomes Holiday Homework](https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)**
+
 
 # Meet & Hire Networking Event 
 
@@ -103,5 +104,7 @@ NAME, EMAIL, PHONE
 
 
 ## Keep in contact with your coach:
+
+Remember, that we are here to support you each step of the way.  The best thing you can do is to keep us in the loop and let us know what is going on. Your local coach will review what it means to be a strategic job seeker, the requirements for maintaining Outcomes support, and what to expect in the upcoming months. In the meantime, don't hesitate to schedule time with your coach for specific needs. 
 
 **[Connecting with your coach](https://github.com/ga-students/ga-dsiplus/blob/master/one-on-ones.md)**
