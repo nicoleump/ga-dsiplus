@@ -2,7 +2,7 @@
 
 Congrats, you graduated from GA’s Immersive Program! We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  You will work closely with your coach to discover how to best sell your talents to employers and set yourself up for success in your job search. Here are some things to be aware of going forward. 
 
-# Meet & Hire Talent Spotlight Event 
+# Meet & Hire Networking Event 
 
 ## Framing:
 
@@ -72,39 +72,35 @@ Thank you,
 
 NAME, EMAIL, PHONE
 
-## Meet & Hire Logistics:
+
+## Meet & Hire Networking Event Dates:
 
 ### EAST COAST
 ### Atlanta
 - Wednesday January 10th 6:00-8:00 PM
 
-### [Nicole Hartig](https://calendar.google.com/calendar/selfsched?sstoken=UU9rR0E5a0huOENEfGRlZmF1bHR8NWZiMjI3NjIxMTA5N2VkMzk0MWU4NDk1YjQwZDdhZjQ)
-- Austin Career Coach
+### Austin
+- Wednesday January 10th 5:00-6:30 PM
 
-### [Julie Carroll](https://calendar.google.com/calendar/selfsched?sstoken=UUhUNTNEYkxmckFnfGRlZmF1bHR8ZTQ0YzhlZDRhZDViNGVhMjMzMDZiOTJhNjVlYzZhNzU)
-- Boston Career Coach
+### Boston
+- Wednesday January 17th 4:30-6:30 PM
 
-### [Taylor Manus](https://calendar.google.com/calendar/selfsched?sstoken=UURCb0VZZDdBWFY1fGRlZmF1bHR8ZTI1MDU5NGMxOTg3NTNjMzFhOWUzMGFjYjZhNTNkODY)
-- Chicago Career Coach
+### Chicago
+- Wednesday January 17th 3:30-5:30 PM
 
-### [Macia Batista](https://coach-macia.youcanbook.me/index.jsp)
-- New York Career Coach
-
+### New York City
+- Thursday January 11th 3:00-6:00 PM
 
 ### WEST COAST
-### [Joy Haugen](https://calendar.google.com/calendar/selfsched?sstoken=UUhjY1U5MFVhS1YzfGRlZmF1bHR8YzI3Yzc5YjBjMzBkYTBhZTY1MDFlY2U1ZjQwZWNmYmI)
-- Global Outcomes Lead
-- D.C. Career Coach
+### San Francisco
+- Thursday January 11th 12:00-2:00 PM
 
-### [Ari Aldebot](http://www.slyreply.com/app/sheets/vxohcxcyxoeo/)
-- San Francisco Career Coach
+### Santa Monica 
+- Wednesday January 10th 6:00-8:00 PM
 
-### [Andrew Kumar](https://calendly.com/andrew-kumar/15min/10-04-2017?back=1)
-- Santa Monica Career Coach
+### Seattle
+- Thursday January 11th 4:00-6:00 PM
 
-### [Beth Miller](https://calendar.google.com/calendar/selfsched?sstoken=UVB0RzFfcGxZY2tofGRlZmF1bHR8NzRmYzg2NzBkMjViZTMzYmNjZjIwNWY0ZWE5MjA0MmI)
-- Seattle Career Coach
-
-### [Nick Anderson](https://nickanderson.youcanbook.me/)
-- Denver Career Coach
+### Denver
+- TBD
 
