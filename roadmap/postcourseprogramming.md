@@ -78,29 +78,22 @@ NAME, EMAIL, PHONE
 ### EAST COAST
 **Atlanta:** Wednesday January 10th 6:00-8:00 PM
 
+**Austin:** Wednesday January 10th 5:00-6:30 PM
 
-### Austin
-- Wednesday January 10th 5:00-6:30 PM
+**Boston:** Wednesday January 17th 4:30-6:30 PM
 
-### Boston
-- Wednesday January 17th 4:30-6:30 PM
+**Chicago:** Wednesday January 17th 3:30-5:30 PM
 
-### Chicago
-- Wednesday January 17th 3:30-5:30 PM
+**New York City:** Thursday January 11th 3:00-6:00 PM
 
-### New York City
-- Thursday January 11th 3:00-6:00 PM
 
 ### WEST COAST
-### San Francisco
-- Thursday January 11th 12:00-2:00 PM
+**San Francisco:** Thursday January 11th 12:00-2:00 PM
 
-### Santa Monica 
-- Wednesday January 10th 6:00-8:00 PM
+**Santa Monica:** Wednesday January 10th 6:00-8:00 PM 
 
-### Seattle
-- Thursday January 11th 4:00-6:00 PM
+**Seattle:** Thursday January 11th 4:00-6:00 PM
 
-### Denver
-- TBD
+**Denver:** TBD
+
 
