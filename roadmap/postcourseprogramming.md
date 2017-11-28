@@ -76,7 +76,7 @@ NAME, EMAIL, PHONE
 ## Meet & Hire Networking Event Dates:
 
 ### EAST COAST
-### Atlanta
+### Atlanta: Wednesday January 10th 6:00-8:00 PM
 - Wednesday January 10th 6:00-8:00 PM
 
 ### Austin
