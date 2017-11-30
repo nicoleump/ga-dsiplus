@@ -5,6 +5,8 @@ Congrats, you graduated from GA’s Immersive Program! We are so proud of all of
 # Holiday Homework
 You  are strongly encouraged to complete the below by **January 2, 2018**. These activities will help kick off 2018 on the right foot and set you up for success as you get ready for Outcomes Post Programming. Remember, the first 45 days are the most critical! 
 
+You MUST have all of your job search materials 100% done by January 2nd. 
+
 **[DSI+ Outcomes Holiday Homework](https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)**
 
 
