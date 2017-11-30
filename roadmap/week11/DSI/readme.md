@@ -19,6 +19,7 @@ Are you dreading the technical interview?  Not sure what to expect or how to cal
 [See Full Presentation](http://www.slideshare.net/vincentanidata/landing-your-first-data-science-job-the-technical-interview)
 
 ## Further Reading/ Resources: 
+[Questions previous DSI students have encountered](https://docs.google.com/document/d/1fJ9tc-MukNZpSaAlRmzFCOkzjYMYDgc7WXmv175fRp0/edit?ts=5808f8cd#heading=h.djmud7b0l4gl)
 
 [100 Data Science interview questions and answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2016/184)
 
