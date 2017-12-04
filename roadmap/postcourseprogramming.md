@@ -7,7 +7,9 @@ You  are strongly encouraged to complete the below by **January 2, 2018**. These
 
 **You MUST have all of your job search materials 100% done by January 2nd.** 
 
+
 **[DSI+ Outcomes Holiday Homework](https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)**
+
 
 # Portfolio Reviews 
 
