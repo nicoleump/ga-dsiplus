@@ -5,10 +5,13 @@ Congrats, you graduated from GA’s Immersive Program! We are so proud of all of
 # Holiday Homework
 You  are strongly encouraged to complete the below by **January 2, 2018**. These activities will help kick off 2018 on the right foot and set you up for success as you get ready for Outcomes Post Programming. Remember, the first 45 days are the most critical! 
 
-You MUST have all of your job search materials 100% done by January 2nd. 
+**You MUST have all of your job search materials 100% done by January 2nd.** 
 
 **[DSI+ Outcomes Holiday Homework](https://docs.google.com/document/d/1SZZ6orYKv0zkVmmV_Eufcv-PEjyr3JT90wztFg1_WQs/edit?usp=sharing)**
 
+# Portfolio Reviews 
+
+The Portfolio Review is an opportunity for you to get firsthand experience sharing your work and showing off everything you have worked so hard for with GA!  Be prepared to discuss your work, your plans for completing any unfinished pieces, and most importantly your process. You will work with your coach as to what to expect for your portfolio review. 
 
 # Meet & Hire Networking Event 
 
@@ -23,9 +26,7 @@ To get prepared, below are some helpful tips to jumpstart your road to success! 
 ## Some house cleaning items and etiquette/best practices:
 
 * GET SOME SLEEP & Drink extra water the day before! All jokes aside, get some rest so you can present your best self.
-
 * Be early! You are to arrive 1 hour prior to the event Start Time for setup and pep talk. If you are late you will forfeit your spot.
-
 * You will be choosing your spot, and early bird gets the worm :)
 
 * Make sure your Portfolio is 100% complete. You cannot participate if your portfolio is not done.
