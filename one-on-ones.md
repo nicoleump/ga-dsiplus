@@ -46,7 +46,7 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Andrew Kumar](https://calendly.com/andrew-kumar/15min/10-04-2017?back=1)
 - Santa Monica Career Coach
 
-### [Beth Miller](https://calendar.google.com/calendar/selfsched?sstoken=UVB0RzFfcGxZY2tofGRlZmF1bHR8NzRmYzg2NzBkMjViZTMzYmNjZjIwNWY0ZWE5MjA0MmI)
+### [Casey Hills](https://calendar.google.com/calendar/selfsched?sstoken=UVB0RzFfcGxZY2tofGRlZmF1bHR8NzRmYzg2NzBkMjViZTMzYmNjZjIwNWY0ZWE5MjA0MmI)
 - Seattle Career Coach
 
 ### [Nick Anderson](https://nickanderson.youcanbook.me/)
