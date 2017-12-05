@@ -106,7 +106,7 @@ NAME, EMAIL, PHONE
 ### WEST COAST
 **San Francisco:** Thursday January 11th 12:00-2:00 PM
 
-**Santa Monica:** Wednesday January 10th 6:00-8:00 PM 
+**Santa Monica:** Wednesday January 24th 6:00-8:00 PM 
 
 **Seattle:** Thursday January 11th 4:00-6:00 PM
 
