@@ -58,15 +58,15 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [andrew.kumar@ga.co](mailto:andrew.kumar@ga.co)
 - [Meet Andrew!](https://www.linkedin.com/in/andrewkumar1016/)
 
-### Beth Miller
+### Casey Hills
 - Seattle Career Coach
-- [beth.miller@ga.co](mailto:beth.miller@ga.co)
-- [Meet Beth!](https://www.linkedin.com/in/bemilr9/)
+- [casey@ga.co](mailto:casey@ga.co)
+- [Meet Casey!](https://www.linkedin.com/in/caseyhills/)
 
-### Nick Anderson
+### Kelly Dwyer
 - Denver Career Coach
-- [nick.anderson@ga.co](mailto:nick.anderson@generalassemb.ly)
-- [Meet Nick!](https://www.linkedin.com/in/nickandersonr/)
+- [kelly.dwyer@generalassemb.ly](mailto:kelly.dwyer@generalassemb.ly)
+
 
 
 
