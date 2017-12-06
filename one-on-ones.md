@@ -49,5 +49,5 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Casey Hills](https://caseyhills.youcanbook.me/)
 - Seattle Career Coach
 
-### [Kelly Dwyer](https://kellydwyer.youcanbook.me/)
+### [Kelly Dwyer](mailto:kelly.dwyer@generalassemb.ly)
 - Denver Career Coach
