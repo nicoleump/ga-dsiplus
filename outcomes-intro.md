@@ -65,7 +65,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ### Kelly Dwyer
 - Denver Career Coach
-- [Kelly.dwyer@generalassemb.ly](mailto:kelly.dwyer@generalassemb.ly)
+- [Kelly.dwyer@ga.co](mailto:kelly.dwyer@ga.co)
 - [Meet Kelly!](https://www.linkedin.com/in/kellydwyer/)
 
 
