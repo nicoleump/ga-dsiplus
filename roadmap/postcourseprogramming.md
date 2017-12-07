@@ -12,9 +12,7 @@ You  are strongly encouraged to complete the below by **January 2, 2018**. These
 **You MUST have all of your job search materials 100% done by January 2nd.** 
 We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes.
 
-Make sure that the links you submitted in class are current. 
-
-**[DSI+ Final Materials](https://git.generalassemb.ly/dsi-plus-2/Finalmaterials-)**
+Make sure that the links you submitted in class are current and that you've submitted all of your final materials. (See your class calendar for the link to submit final materials) 
 
 # Portfolio Reviews 
 
