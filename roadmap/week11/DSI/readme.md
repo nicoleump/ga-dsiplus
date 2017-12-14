@@ -23,9 +23,9 @@ Are you dreading the technical interview?  Not sure what to expect or how to cal
 Remember, that interviewing is all about how you think and problem solve.  Show your impact and bring data to the conversation. Hiring Managers want to know how you think and how you navigate going from nothing to something. How do you reason?  What methods do you use?  What are the pros and cons? They don't expect you to have the 100% correct answer, but do care about your reasons and thought process. What is the kick that you've kicked the most?
 
 Presentations:
-How do you talk about the success and failure of your projects? 
-Failures are learning opportunities. 
-How do you talk about success?
+1. How do you talk about the success and failure of your projects? 
+2. Failures are learning opportunities. 
+3. How do you talk about success?
 
 
 Take Aways:
