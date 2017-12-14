@@ -37,7 +37,7 @@ Start Preparing Now:
 1. Work on a project [existing or new]
 2. Collect data on skills people are wiling to pay for
 3. Talk to other data professionals
-4. Sign up for KDnuggets [KDnuggets](https://www.kdnuggets.com/)and read regularly
+4. Sign up for [KDnuggets](https://www.kdnuggets.com/) and read regularly
 5. Start studying a "classic" machine learning paper
 6. Decide which type of data scientist you want to become and identify what you are missing
 
