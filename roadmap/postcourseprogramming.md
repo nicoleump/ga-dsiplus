@@ -102,13 +102,13 @@ NAME, EMAIL, PHONE
 
 
 ### WEST COAST
-**San Francisco:** Thursday January 11th 12:00-2:00 PM
+**San Francisco:** Thursday January 10th 12:00-2:00 PM
 
 **Santa Monica:** Wednesday January 24th 6:00-8:00 PM 
 
 **Seattle:** Thursday January 11th 4:00-6:00 PM
 
-**Denver:** TBD
+**Denver:** Thursday January 11th 4:30-6:30 PM
 
 
 ## Keep in contact with your coach:
