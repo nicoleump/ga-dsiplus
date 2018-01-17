@@ -44,7 +44,7 @@ This is not an interrogation! Success will come from creating connection and a r
 
    * **T**ask - describe the problem and challenges "We faced supply chain shortage.." 
 
-   * **A**ction - explaine what you did to solve it and how "I solved it by..."
+   * **A**ction - explain what you did to solve it and how "I solved it by..."
 
    * **R**esults - state benefits, savings, rewards, acknowledgement "The impact of..."
 
@@ -57,7 +57,7 @@ This is not an interrogation! Success will come from creating connection and a r
 ## Guided Practice: (10/25)
 
 "Tell me about yourself." 
-- This is an opportunity to channel our professional brands. We’ve all been working on defining our brands. This is your chance to put it into action. This is not an invitation to recite your entire life story or even to go bullet by bullet through your resume. Instead, it’s probably your first and best chance to pitch the hiring manager on why you’re the right one for the job. Consider this simple formula, [the Past-Present-Future formula](https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself).
+- This is an opportunity to channel our professional brands. We’ve all been working on defining our brands. This is your chance to put it into action. This is not an invitation to recite your entire life story or even to go bullet by bullet through your resume. Instead, it’s probably your first and best chance to pitch the hiring manager on why you’re the right one for the job. Consider this simple formula, [the Present-Past-Future formula](https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself).
 
 Start with the present - where you are right now.
 
