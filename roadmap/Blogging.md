@@ -1,4 +1,4 @@
-# Blogging 
+# Blogging aka Thought Leadership
 
 ## Learning Objectives:
 
